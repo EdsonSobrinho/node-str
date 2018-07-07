@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\src",
+    "\\src\\controllers",
+    "\\src\\models",
+    "\\src\\routes"
+  ],
+  "SelectedNode": "\\src\\controllers\\products-controller.js",
+  "PreviewInSolutionExplorer": false
+}
